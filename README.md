@@ -1,6 +1,6 @@
 # FAQ ACCORDION IMPLEMENTATION
 
-This project is a simple FAQ accordion built with HTML, CSS and JAVASCRIPT. It provides an interactive section for user to toggle an a FAQ for answers by clicking associated buttons
+This project is a simple FAQ accordion built with HTML, CSS and JAVASCRIPT. It provides an interactive section for user to toggle an a FAQ for answers by clicking associated buttons https://roadmap.sh/projects/accordion
 
 ## Table of Contents
 
